@@ -1,0 +1,46 @@
+body{
+	margin: 40px;
+}
+.bloco{
+	height: 200px;
+	width: 200px;
+}
+
+#imagem{
+	height: 100px;
+	/* width: 400pt; */
+	float: left;
+}
+
+/* #descrição{
+	clear: left;
+	float: left;
+} */
+
+.principal{
+	padding-bottom: 20px;
+}
+
+main{
+	border: solid 1px black;
+	margin-right: 20px;
+	width: 90%;
+}
+
+section{
+	padding: 10px;
+}
+
+.lista-sem-num{
+	list-style-type: none;
+}
+
+nav{
+	border: solid 1px black;
+	padding: 0 20px;
+	background-color: rgb(125, 255, 255);
+}
+
+.conteudo{
+	display: flex;
+}
